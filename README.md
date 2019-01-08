@@ -30,7 +30,7 @@
     }
 ```
 
-*** Resultado final de la petición ***
+***Resultado final de la petición***
 ```json
 [
     {
